@@ -1,14 +1,14 @@
 p h o t o r a m a 
 ====================
 
-![photorama](https://raw.githubusercontent.com/sunbliss/photorama/gh-pages/photorama_thumb.gif)
+![photorama](https://raw.githubusercontent.com//photorama/gh-pages/photorama_thumb.gif)
 
 
-![Speed Test](https://raw.githubusercontent.com/sunbliss/photorama/gh-pages/Website%20Speed%20Test.png)
+![Speed Test](https://raw.githubusercontent.com//photorama/gh-pages/Website%20Speed%20Test.png)
 
 ----------
 
----> [DEMO](http://sunbliss.github.io/photorama/ "DEMO")  <---
+---> [DEMO](http://.github.io/photorama/ "DEMO")  <---
 
 ----------
 
@@ -50,7 +50,7 @@ Usage
 
 ###Quick Start
 
-1. [Fork this repository](https://github.com/sunbliss/photorama/fork) to get started. 
+1. [Fork this repository](https://github.com//photorama/fork) to get started. 
 2. Go to `https://github.com/yourusername/photorama/settings`
 3. Rename the repository to your new project, e.g. *myphotoblog*
 2. Create a new branch called `gh-pages` in your repository. 
